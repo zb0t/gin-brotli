@@ -1,4 +1,4 @@
-module github.com/Solorad/gin-brotli
+module github.com/anargu/gin-brotli
 
 go 1.12
 
